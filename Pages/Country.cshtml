@@ -1,0 +1,42 @@
+@page
+@model MyRazorApp.Pages.CountryModel
+@{
+    ViewData["Title"] = "Country";
+    Layout = "/Pages/Shared/_LayoutCountry.cshtml";
+}
+<div class="country-info">
+        <h1>Информация о странах</h1>
+
+        <ul class="country-list">
+            <li class="country-item">
+                <h2>Россия</h2>
+                <p>Столица: Москва</p>
+                <p>Население: 144 млн человек</p>
+                <p>Официальный язык: Русский</p>
+            </li>
+            <li class="country-item">
+                <h2>США</h2>
+                <p>Столица: Вашингтон</p>
+                <p>Население: 331 млн человек</p>
+                <p>Официальный язык: Английский</p>
+            </li>
+            <li class="country-item">
+                <h2>Китай</h2>
+                <p>Столица: Пекин</p>
+                <p>Население: 1.4 млрд человек</p>
+                <p>Официальный язык: Китайский</p>
+            </li>
+            <li class="country-item">
+                <h2>Германия</h2>
+                <p>Столица: Берлин</p>
+                <p>Население: 83 млн человек</p>
+                <p>Официальный язык: Немецкий</p>
+            </li>
+            <li class="country-item">
+                <h2>Япония</h2>
+                <p>Столица: Токио</p>
+                <p>Население: 125 млн человек</p>
+                <p>Официальный язык: Японский</p>
+            </li>
+        </ul>
+    </div>

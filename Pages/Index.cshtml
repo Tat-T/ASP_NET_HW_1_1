@@ -1,0 +1,64 @@
+@page
+@model MyRazorApp.Pages.IndexModel
+@{
+    ViewData["Title"] = "Home page";
+    Layout = "/Pages/Shared/_Layout.cshtml";
+}
+
+<div class="text-center">
+    <div class="border border-black m-3 rounded-4 ">
+        <h2 class="text-start p-4">Задание 1</h2>
+        <p>
+            Создайте и запустите базовое приложение ASP.NET
+            Core, построенное на основании ASP.NET Razor Pages. В веб-странице выведите номер текущего дня в году.
+        </p>
+        <p class="text-black fs-3 fw-bold">Текущая дата:</p>
+        <p class="text-danger fs-1 fw-bold"> @Model.CurrentDate</p>
+        <p class="text-black fs-4 fw-bold">Номер текущего дня в году:</p>
+        <p><strong class="text-danger fs-1 p-2">@Model.DayOfYear</strong></p>
+    </div>
+    <div class="border border-black m-3 rounded-4 ">
+        <h2 class="text-start p-4">Задание 2</h2>
+        <p>
+            Создайте и запустите базовое приложение ASP.NET
+            Core, построенное на основании ASP.NET Razor Pages.
+            В веб-странице в зависимости от случайного значения
+            отображайте любую букву из английского алфавита.
+        </p>
+        <p><strong class="text-danger fs-1 p-2">@Model.RandomLetter</strong></p>
+    </div>
+    <div class="border border-black m-3 rounded-4 ">
+        <h2 class="text-start p-4">Задание 3</h2>
+        <p>
+            Создайте и запустите базовое приложение ASP.NET
+            Core, построенное на основании ASP.NET Razor Pages. Добавьте к базовому приложению новую страницу.Страница
+            должна отображать информацию о ресторане. Доступ к
+            странице по ссылке в верхнем меню страницы.
+        </p>
+        <div class="mb-4">
+            <a href="/Home">home</a>
+        </div>
+    </div>
+    <div class="border border-black m-3 rounded-4 ">
+        <h2 class="text-start p-4">Задание 4</h2>
+        <p>
+            Добавьте к заданию 2 отображение списка ресторанов. Используйте возможности CSS для форматирования
+            списка.
+        </p>
+        <div class="mb-4">
+            <a href="/Spisok">список</a>
+        </div>
+    </div>
+    <div class="border border-black m-3 rounded-4 ">
+        <h2 class="text-start p-4">Задание 5</h2>
+        <p>
+            Создайте и запустите базовое приложение ASP.NET
+            Core, построенное на основании ASP.NET Razor Pages.
+            Добавьте к базовому приложению новую страницу. Страница должна отображать информацию о странах. Доступ
+            к странице по ссылке в верхнем меню страницы. Используйте возможности CSS для форматирования списка
+        </p>
+        <div class="mb-4">
+            <a href="/Country">Информация о странах</a>
+        </div>
+    </div>
+</div>

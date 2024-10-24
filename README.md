@@ -1,5 +1,6 @@
 ### запуск VStudio Code
 
-dotnet run
+` dotnet run `
 
-http://localhost:5187
+В браузере вводим:
+`http://localhost:5187`

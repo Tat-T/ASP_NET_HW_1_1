@@ -1,0 +1,61 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = DZ_21_10_24
+build_property.RootNamespace = DZ_21_10_24
+build_property.ProjectDir = D:\АкадемияТоп\Архив лекций\Разработка веб-приложений с использованием технологии ASP.NET Core\DZ_21_10_24\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\АкадемияТоп\Архив лекций\Разработка веб-приложений с использованием технологии ASP.NET Core\DZ_21_10_24
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[D:/АкадемияТоп/Архив лекций/Разработка веб-приложений с использованием технологии ASP.NET Core/DZ_21_10_24/Pages/Country.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRyeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/АкадемияТоп/Архив лекций/Разработка веб-приложений с использованием технологии ASP.NET Core/DZ_21_10_24/Pages/Home.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/АкадемияТоп/Архив лекций/Разработка веб-приложений с использованием технологии ASP.NET Core/DZ_21_10_24/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/АкадемияТоп/Архив лекций/Разработка веб-приложений с использованием технологии ASP.NET Core/DZ_21_10_24/Pages/Menu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVudS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/АкадемияТоп/Архив лекций/Разработка веб-приложений с использованием технологии ASP.NET Core/DZ_21_10_24/Pages/Restaurant.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVzdGF1cmFudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/АкадемияТоп/Архив лекций/Разработка веб-приложений с использованием технологии ASP.NET Core/DZ_21_10_24/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/АкадемияТоп/Архив лекций/Разработка веб-приложений с использованием технологии ASP.NET Core/DZ_21_10_24/Pages/Shared/_LayoutCountry.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXRDb3VudHJ5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/АкадемияТоп/Архив лекций/Разработка веб-приложений с использованием технологии ASP.NET Core/DZ_21_10_24/Pages/Shared/_LayoutRest.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXRSZXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/АкадемияТоп/Архив лекций/Разработка веб-приложений с использованием технологии ASP.NET Core/DZ_21_10_24/Pages/Spisok.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3Bpc29rLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/АкадемияТоп/Архив лекций/Разработка веб-приложений с использованием технологии ASP.NET Core/DZ_21_10_24/Pages/Zakaz.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcWmFrYXouY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 

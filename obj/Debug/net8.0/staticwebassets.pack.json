@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\АкадемияТоп\\Архив лекций\\Разработка веб-приложений с использованием технологии ASP.NET Core\\DZ_21_10_24\\wwwroot\\image\\fon.jpg",
+      "PackagePath": "staticwebassets\\image\\fon.jpg"
+    },
+    {
+      "Id": "D:\\АкадемияТоп\\Архив лекций\\Разработка веб-приложений с использованием технологии ASP.NET Core\\DZ_21_10_24\\wwwroot\\style.css",
+      "PackagePath": "staticwebassets\\style.css"
+    },
+    {
+      "Id": "D:\\АкадемияТоп\\Архив лекций\\Разработка веб-приложений с использованием технологии ASP.NET Core\\DZ_21_10_24\\wwwroot\\stylecountry.css",
+      "PackagePath": "staticwebassets\\stylecountry.css"
+    },
+    {
+      "Id": "D:\\АкадемияТоп\\Архив лекций\\Разработка веб-приложений с использованием технологии ASP.NET Core\\DZ_21_10_24\\wwwroot\\stylerest.css",
+      "PackagePath": "staticwebassets\\stylerest.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.DZ_21_10_24.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.DZ_21_10_24.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.DZ_21_10_24.props",
+      "PackagePath": "build\\DZ_21_10_24.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.DZ_21_10_24.props",
+      "PackagePath": "buildMultiTargeting\\DZ_21_10_24.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.DZ_21_10_24.props",
+      "PackagePath": "buildTransitive\\DZ_21_10_24.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,434 @@
+{
+  "Version": 1,
+  "Hash": "C/L+wujFClZWFcFJaSY/dIzDvbfYRfwqAtnZRwYJ3wE=",
+  "Source": "DZ_21_10_24",
+  "BasePath": "_content/DZ_21_10_24",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "DZ_21_10_24\\wwwroot",
+      "Source": "DZ_21_10_24",
+      "ContentRoot": "D:\\АкадемияТоп\\Архив лекций\\Разработка веб-приложений с использованием технологии ASP.NET Core\\DZ_21_10_24\\wwwroot\\",
+      "BasePath": "_content/DZ_21_10_24",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\АкадемияТоп\\Архив лекций\\Разработка веб-приложений с использованием технологии ASP.NET Core\\DZ_21_10_24\\wwwroot\\image\\fon.jpg",
+      "SourceId": "DZ_21_10_24",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\АкадемияТоп\\Архив лекций\\Разработка веб-приложений с использованием технологии ASP.NET Core\\DZ_21_10_24\\wwwroot\\",
+      "BasePath": "_content/DZ_21_10_24",
+      "RelativePath": "image/fon#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8ok25l9dqy",
+      "Integrity": "2MG7GboNQCTtrYCq/u8i3b2HmWS58Ab9enUYSPh7S60=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image\\fon.jpg"
+    },
+    {
+      "Identity": "D:\\АкадемияТоп\\Архив лекций\\Разработка веб-приложений с использованием технологии ASP.NET Core\\DZ_21_10_24\\wwwroot\\style.css",
+      "SourceId": "DZ_21_10_24",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\АкадемияТоп\\Архив лекций\\Разработка веб-приложений с использованием технологии ASP.NET Core\\DZ_21_10_24\\wwwroot\\",
+      "BasePath": "_content/DZ_21_10_24",
+      "RelativePath": "style#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yytumtbyte",
+      "Integrity": "Oo1tmhObkFZTBeug3Bqd32zX6giFRaPpYMUDohssfr4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\style.css"
+    },
+    {
+      "Identity": "D:\\АкадемияТоп\\Архив лекций\\Разработка веб-приложений с использованием технологии ASP.NET Core\\DZ_21_10_24\\wwwroot\\stylecountry.css",
+      "SourceId": "DZ_21_10_24",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\АкадемияТоп\\Архив лекций\\Разработка веб-приложений с использованием технологии ASP.NET Core\\DZ_21_10_24\\wwwroot\\",
+      "BasePath": "_content/DZ_21_10_24",
+      "RelativePath": "stylecountry#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4hcehcmpgv",
+      "Integrity": "WMhmJq4q2qLykk1netfBXuQmS8aDwJcRaIh8zceXPHQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\stylecountry.css"
+    },
+    {
+      "Identity": "D:\\АкадемияТоп\\Архив лекций\\Разработка веб-приложений с использованием технологии ASP.NET Core\\DZ_21_10_24\\wwwroot\\stylerest.css",
+      "SourceId": "DZ_21_10_24",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\АкадемияТоп\\Архив лекций\\Разработка веб-приложений с использованием технологии ASP.NET Core\\DZ_21_10_24\\wwwroot\\",
+      "BasePath": "_content/DZ_21_10_24",
+      "RelativePath": "stylerest#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "v7d3ifsq5w",
+      "Integrity": "q5OsxB+ixRQJn7bntmB/385Vk+S+gHFZHEG4tAblVZs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\stylerest.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "image/fon.8ok25l9dqy.jpg",
+      "AssetFile": "D:\\АкадемияТоп\\Архив лекций\\Разработка веб-приложений с использованием технологии ASP.NET Core\\DZ_21_10_24\\wwwroot\\image\\fon.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "534082"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2MG7GboNQCTtrYCq/u8i3b2HmWS58Ab9enUYSPh7S60=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Oct 2024 16:07:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8ok25l9dqy"
+        },
+        {
+          "Name": "label",
+          "Value": "image/fon.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2MG7GboNQCTtrYCq/u8i3b2HmWS58Ab9enUYSPh7S60="
+        }
+      ]
+    },
+    {
+      "Route": "image/fon.jpg",
+      "AssetFile": "D:\\АкадемияТоп\\Архив лекций\\Разработка веб-приложений с использованием технологии ASP.NET Core\\DZ_21_10_24\\wwwroot\\image\\fon.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "534082"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2MG7GboNQCTtrYCq/u8i3b2HmWS58Ab9enUYSPh7S60=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Oct 2024 16:07:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2MG7GboNQCTtrYCq/u8i3b2HmWS58Ab9enUYSPh7S60="
+        }
+      ]
+    },
+    {
+      "Route": "style.css",
+      "AssetFile": "D:\\АкадемияТоп\\Архив лекций\\Разработка веб-приложений с использованием технологии ASP.NET Core\\DZ_21_10_24\\wwwroot\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "50"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Oo1tmhObkFZTBeug3Bqd32zX6giFRaPpYMUDohssfr4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 07:03:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Oo1tmhObkFZTBeug3Bqd32zX6giFRaPpYMUDohssfr4="
+        }
+      ]
+    },
+    {
+      "Route": "style.yytumtbyte.css",
+      "AssetFile": "D:\\АкадемияТоп\\Архив лекций\\Разработка веб-приложений с использованием технологии ASP.NET Core\\DZ_21_10_24\\wwwroot\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "50"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Oo1tmhObkFZTBeug3Bqd32zX6giFRaPpYMUDohssfr4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 07:03:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yytumtbyte"
+        },
+        {
+          "Name": "label",
+          "Value": "style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Oo1tmhObkFZTBeug3Bqd32zX6giFRaPpYMUDohssfr4="
+        }
+      ]
+    },
+    {
+      "Route": "stylecountry.4hcehcmpgv.css",
+      "AssetFile": "D:\\АкадемияТоп\\Архив лекций\\Разработка веб-приложений с использованием технологии ASP.NET Core\\DZ_21_10_24\\wwwroot\\stylecountry.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "868"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WMhmJq4q2qLykk1netfBXuQmS8aDwJcRaIh8zceXPHQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 13:00:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4hcehcmpgv"
+        },
+        {
+          "Name": "label",
+          "Value": "stylecountry.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WMhmJq4q2qLykk1netfBXuQmS8aDwJcRaIh8zceXPHQ="
+        }
+      ]
+    },
+    {
+      "Route": "stylecountry.css",
+      "AssetFile": "D:\\АкадемияТоп\\Архив лекций\\Разработка веб-приложений с использованием технологии ASP.NET Core\\DZ_21_10_24\\wwwroot\\stylecountry.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "868"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WMhmJq4q2qLykk1netfBXuQmS8aDwJcRaIh8zceXPHQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 13:00:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WMhmJq4q2qLykk1netfBXuQmS8aDwJcRaIh8zceXPHQ="
+        }
+      ]
+    },
+    {
+      "Route": "stylerest.css",
+      "AssetFile": "D:\\АкадемияТоп\\Архив лекций\\Разработка веб-приложений с использованием технологии ASP.NET Core\\DZ_21_10_24\\wwwroot\\stylerest.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "647"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"q5OsxB+ixRQJn7bntmB/385Vk+S+gHFZHEG4tAblVZs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 12:50:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-q5OsxB+ixRQJn7bntmB/385Vk+S+gHFZHEG4tAblVZs="
+        }
+      ]
+    },
+    {
+      "Route": "stylerest.v7d3ifsq5w.css",
+      "AssetFile": "D:\\АкадемияТоп\\Архив лекций\\Разработка веб-приложений с использованием технологии ASP.NET Core\\DZ_21_10_24\\wwwroot\\stylerest.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "647"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"q5OsxB+ixRQJn7bntmB/385Vk+S+gHFZHEG4tAblVZs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Oct 2024 12:50:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v7d3ifsq5w"
+        },
+        {
+          "Name": "label",
+          "Value": "stylerest.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-q5OsxB+ixRQJn7bntmB/385Vk+S+gHFZHEG4tAblVZs="
+        }
+      ]
+    }
+  ]
+}
